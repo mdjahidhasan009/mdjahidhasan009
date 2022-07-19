@@ -177,5 +177,5 @@ A Full Stack Web Developer.
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdjahidhasan009&layout=compact&hide=html" alt="mdjahidhasan009" /></div>
 <br/>
 <br/>
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdjahidhasan009&show_icons=true" alt="mdjahidhasan009" /></div>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdjahidhasan009&show_icons=true&count_private=true" alt="mdjahidhasan009" /></div>
 
