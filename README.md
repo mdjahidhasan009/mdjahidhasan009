@@ -115,6 +115,14 @@ A Full Stack Web Developer.
 />
 
 
+|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=10581613)](https://stackoverflow.com/users/10581613/md-jahid-hasan) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=mdjahidhasan009"/>|
+|---|---|
+
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdjahidhasan009&layout=compact&hide=html,css"/>|<img src="https://github-readme-stats.vercel.app/api?username=mdjahidhasan009&show_icons=true&count_private=true"/>|
+|---|---|
+
+---
+
 ### Get in Touch
 ---
 
@@ -172,12 +180,4 @@ A Full Stack Web Developer.
   height="40px"
 />
 </a>
-
-|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=10581613)](https://stackoverflow.com/users/10581613/md-jahid-hasan) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=mdjahidhasan009"/>|
-|---|---|
-
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdjahidhasan009&layout=compact&hide=html,css"/>|<img src="https://github-readme-stats.vercel.app/api?username=mdjahidhasan009&show_icons=true&count_private=true"/>|
-|---|---|
-
----
 
