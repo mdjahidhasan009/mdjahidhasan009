@@ -65,16 +65,27 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdjahidhasan009&show_icons=true&count_private=true&hide_rank=true&theme=tokyonight" alt="GitHub stats" height="180px"/>
+  <a href="https://github.com/mdjahidhasan009">
+    <img src="https://img.shields.io/github/stars/mdjahidhasan009?affiliations=OWNER&style=for-the-badge&logo=github&color=fab005&logoColor=white" alt="GitHub stars"/>
+  </a>
+  <a href="https://github.com/mdjahidhasan009?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?color=339933&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmdjahidhasan009&style=for-the-badge&logo=github&logoColor=white" alt="Public repos"/>
+  </a>
+  <a href="https://github.com/mdjahidhasan009?tab=followers">
+    <img src="https://img.shields.io/github/followers/mdjahidhasan009?style=for-the-badge&logo=github&color=0e75b6&logoColor=white" alt="GitHub followers"/>
+  </a>
+  <a href="https://github.com/mdjahidhasan009">
+    <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Following&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmdjahidhasan009&style=for-the-badge&logo=github&logoColor=white" alt="Following"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Contribution Graph</b><br/>
+  <img src="https://ghchart.rshah.org/0e75b6/mdjahidhasan009" alt="Contribution graph"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdjahidhasan009&theme=tokyonight" alt="GitHub streak" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdjahidhasan009&layout=compact&hide=html,css&theme=tokyonight" alt="Top languages" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdjahidhasan009&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies"/>
 </p>
 
 ---
