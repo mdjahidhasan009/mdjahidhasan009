@@ -25,7 +25,6 @@
 - 🌱 I'm continuously sharpening my skills in **system design, TypeScript, and modern backend architecture**
 - 💬 Ask me about **React, Next.js, Node.js, Express, and MongoDB**
 - 🤝 I'm open to collaborating on **interesting open-source projects**
-- 📫 Reach me at **[jahid60012@gmail.com](mailto:jahid60012@gmail.com)**
 - ⚡ Fun fact: **I love debugging more than building features** 🐛
 
 ---
